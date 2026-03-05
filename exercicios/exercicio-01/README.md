@@ -1,0 +1,3 @@
+EXERCÍCIO 1: A atividade envolveu a criação de um repositório do GitHub com pastas separadas contendo outras pastas referentes às atividades/avaliações feitas durante o período 5 do Curso Técnico Integrado de Informática. Nessa pasta, contém uma captura de tela com todos os itens mencionados acima, além dos já presentes no repositório, criados no momemnto de sua criação.
+
+Esse exercício foi realizado em: 05/03/2026.
