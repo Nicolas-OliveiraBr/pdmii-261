@@ -1,3 +1,18 @@
+// Nicolas da Silva Mesquita Oliveira - P5 de Informática
+// Exercício 2.
+// 1. A pilha, traduzindo para a linguagem Dart,
+// pode ser traduzida como uma Lista ou uma Queue.
+// Aqui, usei um exemplo de pilha de livros, tentando
+// simular o empilhamento de livros de acordo com as 
+// funcões principais de uma pilha. Como vislumbrado 
+// em sala, uma pilha funciona no modelo LIFO
+// (Last In, First Out, ou em português, Ũltimo a Entrar,
+// Primeiro a Sair), onde o que entra primeiro (ou acima, 
+// pensando no exemplo dos "livros") na pilha é o primeiro
+// a sair, assim como algúem que deseja reler o
+// livro mais recente que leu ou deseja adicionar algum
+// livro à uma pilha de livros já lidos, nesse exemplo.
+
 void main() {
 
   // Criando uma pilha principal que servirá para adicionar todos os livros lidos

@@ -10,4 +10,4 @@ Implementar uma Pilha.
     d) Mostrar todos os elementos da Pilha; e
     e) Entregar o código e um print da execução.
 
-Esse exercício foi realizado em: 19/03/2026 
+Esse exercício foi realizado em: 20/03/2026.
