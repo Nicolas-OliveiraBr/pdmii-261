@@ -1,3 +1,3 @@
-AVALIAÇÃO 1: 
+AVALIAÇÃO 1: A atividade envolveu a criação de um repositório do GitHub com pastas separadas contendo outras pastas referentes às atividades/avaliações feitas durante o período 5 do Curso Técnico Integrado de Informática. Nessa pasta, contém uma captura de tela com todos os itens mencionados acima, além dos já presentes no repositório, criados no momemnto de sua criação.
 
-Essa avaliação foi realizada em:
+Essa avaliação foi realizada em: 05/03/2026.
